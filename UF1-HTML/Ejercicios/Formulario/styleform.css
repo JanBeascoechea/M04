@@ -1,0 +1,37 @@
+legend {
+    font-size:large;
+    font-weight:bolder;
+    text-decoration:underline;
+}
+h1 {
+    text-align: center;
+    color: red;
+}
+div {
+    border: 1px solid red;
+    padding: 20px 10px;
+}
+.dades {
+    background-color: rgba(0, 217, 255, 0.596);
+}
+.moduls {
+    background-color: rgba(255, 0, 149, 0.418);
+}
+.cicles {
+    background-color: rgba(255, 230, 0, 0.658);
+}
+.profe{
+    background-color: rgba(19, 124, 10, 0.705);
+}
+.sobretu {
+    background-color: rgba(114, 68, 68, 0.596);
+}
+.cursos {
+    background-color: rgba(238, 116, 2, 0.979);
+}
+.data {
+    background-color: rgba(192, 19, 19, 0.671);
+}
+.botones {
+    background-color: rgba(27, 25, 25, 0.836);
+}

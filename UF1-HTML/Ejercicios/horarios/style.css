@@ -1,0 +1,36 @@
+h1 {
+    color: aquamarine;
+}
+
+a {
+    color: rgb(0, 255, 55);
+    text-shadow:0px 0px 3px rgb(0, 0, 0)
+}
+a:hover {
+    color: aqua;
+    transition: 0.25s;
+}
+
+li {
+    list-style-type: lower-roman;
+    color: aqua;
+}
+
+button {
+    background-color: rgba(0, 0, 0, 0.281);
+    color: rgb(0, 255, 0);
+}
+button:hover {
+    color: aqua;
+    transition: 0.25s;
+}
+table {
+    background-color: rgba(214, 228, 245, 0.801);
+}
+body {
+    background-image:url(./Foto/Provencana.jpeg);
+    background-repeat: no-repeat; background-size: cover;
+}
+h5 {
+    color: white;
+}
