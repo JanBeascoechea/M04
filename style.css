@@ -5,7 +5,7 @@ body {
 }
 
 header {
-    background-color: rgb(106, 42, 255);
+    background-color: rgb(0, 0, 0);
     color: rgb(255, 255, 255);
     text-align: center;
     padding: 10px;
@@ -16,6 +16,7 @@ nav {
     justify-content: space-between;
     align-items: center;
     background-color: #000000;
+    border: 1px solid white;
     color: white;
     padding: 10px;
 }
@@ -61,8 +62,10 @@ footer {
     text-align: center;
     padding: 10px;
     bottom: 0;
-    width: 100%;
+    right: 0;
+    left: 0;
     position: fixed;
+    border: 1px solid white;
 }
 
 .titulo {
@@ -111,4 +114,8 @@ ul {
 
 p {
     float: left;
+}
+
+h1 {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
