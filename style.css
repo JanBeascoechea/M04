@@ -122,6 +122,9 @@ h1 {
 .ptext {
     color: black;
 }
-.ptext a{
-    color:black;
+.aex {
+    text-decoration: none;
+    color: black;
+    padding: 5px 10px;
+    border-radius: 5px;
 }
