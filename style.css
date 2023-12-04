@@ -115,15 +115,13 @@ ul {
 p {
     float: left;
 }
-p a {
-  color: #0077cc; 
-  text-decoration: none; 
-  font-weight: bold; 
-}
 
 h1 {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .ptext {
     color: black;
+}
+.ptext a{
+    color:black;
 }
