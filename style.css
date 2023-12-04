@@ -116,10 +116,9 @@ p {
     float: left;
 }
 p a {
-  /* Estilos para los enlaces dentro de un párrafo */
-  color: #0077cc; /* Cambia el color del texto a tu preferencia */
-  text-decoration: none; /* Elimina la subrayado predeterminado */
-  font-weight: bold; /* Puedes ajustar la negrita según tus preferencias */
+  color: #0077cc; 
+  text-decoration: none; 
+  font-weight: bold; 
 }
 
 h1 {
